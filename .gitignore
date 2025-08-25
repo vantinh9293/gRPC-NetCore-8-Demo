@@ -1,0 +1,30 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]ogs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+*.dbmdl
+*.dbproj.schemaview
+*.pdb
+*.cache
+*.log
+*.tlog
+*.ide
+*.sdf
+*.opensdf
+*.VC.db
+
+# Others
+TestResults/
+*.ncrunch*
+*.localhistory
+*.DS_Store
+*.vscode/
+*/Logs/
+*.config/
